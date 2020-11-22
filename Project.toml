@@ -1,0 +1,15 @@
+name = "Birch_jll"
+uuid = "f446a8d3-3ce2-58d3-82fb-4f82d1c6300c"
+version = "1.75.0+0"
+
+[deps]
+LibYAML_jll = "f531010a-71ee-5b11-8e71-2f13f29d8a82"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
+
+[compat]
+JLLWrappers = "1.1.0"
+julia = "1.0"

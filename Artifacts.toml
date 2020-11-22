@@ -1,0 +1,118 @@
+[[Birch]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e7ab78570ebe4d682a889cc5154798d84adaa51a"
+libc = "glibc"
+os = "linux"
+
+    [[Birch.download]]
+    sha256 = "5650aa89e124456424955127b70cc558670eed6178b132eff2578908323bbd5b"
+    url = "https://github.com/JuliaBinaryWrappers/Birch_jll.jl/releases/download/Birch-v1.75.0+0/Birch.v1.75.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Birch]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d48c08a01d0d69077626e17819d1fa0a22cec9c6"
+libc = "glibc"
+os = "linux"
+
+    [[Birch.download]]
+    sha256 = "5f808a2be6a14ad3800d15cc0d8a9305284fec6dca2783b3e33576f42f03c0d1"
+    url = "https://github.com/JuliaBinaryWrappers/Birch_jll.jl/releases/download/Birch-v1.75.0+0/Birch.v1.75.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Birch]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "49a3d7d14067f737c30312e35da04214c6c1c896"
+libc = "glibc"
+os = "linux"
+
+    [[Birch.download]]
+    sha256 = "8a04598ed7b5456a94e9d2dc6ec5566bcec63f08d59769e06a4fa1a7fec2cb6b"
+    url = "https://github.com/JuliaBinaryWrappers/Birch_jll.jl/releases/download/Birch-v1.75.0+0/Birch.v1.75.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Birch]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e443da8803915b2e07edce07f90e0a025fd03228"
+libc = "glibc"
+os = "linux"
+
+    [[Birch.download]]
+    sha256 = "a8916ee5f466534b09b868befdbf54670bfdc63406304416821f50b5486c967c"
+    url = "https://github.com/JuliaBinaryWrappers/Birch_jll.jl/releases/download/Birch-v1.75.0+0/Birch.v1.75.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Birch]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "37fc1252c3470527a6e7699f8f53fb40594ade54"
+libc = "glibc"
+os = "linux"
+
+    [[Birch.download]]
+    sha256 = "24156a2845eed54454e3a4ffedd8478106730b0beff3c165f0cf9912afa6b978"
+    url = "https://github.com/JuliaBinaryWrappers/Birch_jll.jl/releases/download/Birch-v1.75.0+0/Birch.v1.75.0.i686-linux-gnu-cxx03.tar.gz"
+[[Birch]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1fba2877f1c2a696e60a5b539abeae2a03ec49b8"
+libc = "glibc"
+os = "linux"
+
+    [[Birch.download]]
+    sha256 = "86538c6df4aa29aabf4181e4774aada6250e7554889127c41dcb83aba2c9e314"
+    url = "https://github.com/JuliaBinaryWrappers/Birch_jll.jl/releases/download/Birch-v1.75.0+0/Birch.v1.75.0.i686-linux-gnu-cxx11.tar.gz"
+[[Birch]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9f5d0a5be3f796c89085a95cb78505c406a4796c"
+libc = "glibc"
+os = "linux"
+
+    [[Birch.download]]
+    sha256 = "efba771c3edec76fa38579600f08eb681f0e861992a5d241d5157e8ebb5c90ea"
+    url = "https://github.com/JuliaBinaryWrappers/Birch_jll.jl/releases/download/Birch-v1.75.0+0/Birch.v1.75.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Birch]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "62424a241832e4509b8419af43c26f14064051a5"
+libc = "glibc"
+os = "linux"
+
+    [[Birch.download]]
+    sha256 = "d5703a65665dc9f7a4be590caff40c4e5eda1c473a74f900425d5ea606a2b716"
+    url = "https://github.com/JuliaBinaryWrappers/Birch_jll.jl/releases/download/Birch-v1.75.0+0/Birch.v1.75.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Birch]]
+arch = "x86_64"
+git-tree-sha1 = "e73b99b0bb531689d778c4b64e05d3ae73011682"
+os = "macos"
+
+    [[Birch.download]]
+    sha256 = "1cc5afd8c8eccbd8f9ef201297e85d8de6079223e85e75e80a6122ab712e3501"
+    url = "https://github.com/JuliaBinaryWrappers/Birch_jll.jl/releases/download/Birch-v1.75.0+0/Birch.v1.75.0.x86_64-apple-darwin.tar.gz"
+[[Birch]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d2fdec2062b1cef87795bc44ff30b56380fbfef1"
+libc = "glibc"
+os = "linux"
+
+    [[Birch.download]]
+    sha256 = "b94248bbe4a462c878881aed99396a67b6d14c9ee85b3c9bd32a08b03947231e"
+    url = "https://github.com/JuliaBinaryWrappers/Birch_jll.jl/releases/download/Birch-v1.75.0+0/Birch.v1.75.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Birch]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d5cf28e8a0e038c6c8562326076bf02eab7f3743"
+libc = "glibc"
+os = "linux"
+
+    [[Birch.download]]
+    sha256 = "c9ee2539576573927ffbd5bedde20bd2364db0ec96610fef93732f670c0d2a8d"
+    url = "https://github.com/JuliaBinaryWrappers/Birch_jll.jl/releases/download/Birch-v1.75.0+0/Birch.v1.75.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Birch]]
+arch = "x86_64"
+git-tree-sha1 = "5a22fe74b9e52adcd0fb5c08842ab063e877bd49"
+os = "freebsd"
+
+    [[Birch.download]]
+    sha256 = "618e34af93ee7610506d9ba317e080134e1bc4af28c78490010c2492f4d67e5d"
+    url = "https://github.com/JuliaBinaryWrappers/Birch_jll.jl/releases/download/Birch-v1.75.0+0/Birch.v1.75.0.x86_64-unknown-freebsd.tar.gz"
